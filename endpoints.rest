@@ -3,9 +3,11 @@
 @url = http://localhost:3010/
 @apiUrl = http://localhost:3010/api/v1/
 
+##
+GET {{apiUrl}}test
 
 ### Webpage Endpoint
-
+GET {{url}}
 ### Recipe List Endpoint
 GET {{apiUrl}}
 
